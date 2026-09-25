@@ -108,7 +108,3 @@ Some features that can be added in future versions:
 
 GitHub:
 https://github.com/Shivam-Kshirsagar
-
-## ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
