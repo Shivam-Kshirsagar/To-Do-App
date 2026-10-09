@@ -100,7 +100,7 @@ Some features that can be added in future versions:
 * 🔎 Search and filter tasks
 * 🏷️ Task categories
 * ☁️ Cloud data storage
-* 📊 Task statistics
+
 
 ## 👨‍💻 Author
 
