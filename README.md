@@ -97,7 +97,6 @@ Some features that can be added in future versions:
 
 * 🔐 User authentication
 * 💾 Database integration
-* 🔎 Search and filter tasks
 
 
 ## 👨‍💻 Author
