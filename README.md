@@ -99,7 +99,6 @@ Some features that can be added in future versions:
 * 💾 Database integration
 * 🔎 Search and filter tasks
 * 🏷️ Task categories
-* ☁️ Cloud data storage
 
 
 ## 👨‍💻 Author
