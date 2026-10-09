@@ -98,7 +98,6 @@ Some features that can be added in future versions:
 * 🔐 User authentication
 * 💾 Database integration
 * 🔎 Search and filter tasks
-* 🏷️ Task categories
 
 
 ## 👨‍💻 Author
