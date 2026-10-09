@@ -91,13 +91,6 @@ Through this project, I gained practical experience with:
 * Git & GitHub
 * Project deployment
 
-## 🔮 Future Improvements
-
-Some features that can be added in future versions:
-
-* 🔐 User authentication
-
-
 ## 👨‍💻 Author
 
 **Shivam Kshirsagar**
