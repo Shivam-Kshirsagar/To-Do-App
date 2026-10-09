@@ -96,7 +96,6 @@ Through this project, I gained practical experience with:
 Some features that can be added in future versions:
 
 * 🔐 User authentication
-* 💾 Database integration
 
 
 ## 👨‍💻 Author
