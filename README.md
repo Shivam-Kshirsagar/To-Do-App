@@ -82,7 +82,7 @@ This project was created to practice and demonstrate:
 Through this project, I gained practical experience with:
 
 * React components
-* `useState`
+* useState
 * Props
 * Event handling
 * Conditional rendering
