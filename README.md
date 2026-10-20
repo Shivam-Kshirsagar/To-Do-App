@@ -1,6 +1,6 @@
 # 📝 To-Do App
 
-A modern and responsive **To-Do Application built with React.js** for managing daily tasks efficiently.
+A modern and responsive **To-Do Application built with React.js** for managing daily tasks efficiently .
 
 ## 🚀 Features
 ggod
