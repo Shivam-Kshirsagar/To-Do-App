@@ -3,7 +3,6 @@
 A modern and responsive **To-Do Application built with React.js** for managing daily tasks efficiently.
 
 ## 🚀 Features
-ggod
 
 * ➕ Add new tasks
 * ✏️ Edit existing tasks
